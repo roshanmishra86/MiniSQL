@@ -1,3 +1,6 @@
+
+# WORK IN PROGRESS 
+
 # MiniSQL
 Python based mini SQL library built for teaching and learning. 
 
